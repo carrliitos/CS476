@@ -24,16 +24,13 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
+<!-- [![MIT License][license-shield]][license-url] -->
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/carrliitos/CS476">
-    <img src="2SASSModel.jpg" alt="Logo" width="480" height="360">
+    <img src="imgs/2SASSModel.jpg" alt="Logo" width="480" height="360">
   </a>
 
   <h3 align="center">Student Athlete Success</h3>
@@ -87,18 +84,20 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`carrliitos`, `CS476`, `twitter_handle`, `salazarbc24@uww.edu`, `Student Athlete Success`, `Sample Project description`
-
+The primary goal of the Student Athlete Success application is to make getting 
+mental support for student athletes at UW-Whitewater more accessible in a private 
+manner. In order to achieve this, the system will be able to:
+* Allow easy and instant communication between student athletes, coaches, and support staff from UWW
+* Provide an easy and simplified interface for all users, allowing them to access critical resources from one place
+* Create a positive environment to allow student athletes to talk about mental health issues and provide an outlet for those suffering from mental health issues
 
 ### Built With
 
-* []()
-* []()
-* []()
-
-
+* [Bootstrap](https://getbootstrap.com/)
+* [MongoDB](https://www.mongodb.com/)
+* [NodeJS](https://nodejs.org/en/)
+* [React](https://reactjs.org/)
+* [Express](https://expressjs.com/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -107,14 +106,12 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+UWW SASS requires [Node.js](https://nodejs.org/) v10+ to run.
+UWW SASS requires a backend server and a front end server
 
 ### Installation
 
+To start the Client
 1. Clone the repo
    ```sh
    git clone https://github.com/carrliitos/CS476.git
@@ -123,8 +120,27 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
+3. Start yan
+  ```sh
+  yarn
+  ```
+4. Start Server
+  ```sh
+  npm start
+  ```
 
+Once this is completed a window should pop up in your browser. This is the frontend. If you get an error, change the version of ```"react-scripts":``` to  ```"3.4.1"```.
 
+To start the Server
+1. Ensure you have the most up-to-date config.json file. This will allow you to connect to the database
+2. Open a separate commandline
+3. Navigate to the project's root directory
+4. Run
+  ```sh
+  yarn server
+  ```
+
+The backend server will then start, if you connect to the database properly the command line will say so. Once that is done, the installation is complete.
 
 <!-- USAGE EXAMPLES -->
 ## Usage

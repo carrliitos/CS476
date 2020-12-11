@@ -82,8 +82,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 The primary goal of the Student Athlete Success application is to make getting 
 mental support for student athletes at UW-Whitewater more accessible in a private 
 manner. In order to achieve this, the system will be able to:
@@ -121,13 +119,13 @@ To start the Client
    npm install
    ```
 3. Start yan
-  ```sh
-  yarn
-  ```
+   ```sh
+   yarn
+   ```
 4. Start Server
-  ```sh
-  npm start
-  ```
+   ```sh
+   npm start
+   ```
 
 Once this is completed a window should pop up in your browser. This is the frontend. If you get an error, change the version of ```"react-scripts":``` to  ```"3.4.1"```.
 
@@ -136,16 +134,19 @@ To start the Server
 2. Open a separate commandline
 3. Navigate to the project's root directory
 4. Run
-  ```sh
-  yarn server
-  ```
+   ```sh
+   yarn server
+   ```
 
 The backend server will then start, if you connect to the database properly the command line will say so. Once that is done, the installation is complete.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+### Additional Screenshots
+![Homepage](imgs/sample1.jpg)
+![sample 2](imgs/sample2.jpg)
+![Sample profile](imgs/sample3.jpg)
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 

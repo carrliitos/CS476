@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** uww-student-athlete-success, stuath-success-web, twitter_handle, email, project_title, project_description
+*** carrliitos, CS476, twitter_handle, salazarbc24@uww.edu, Student Athlete Success, Sample Project description
 -->
 
 
@@ -32,23 +32,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/uww-student-athlete-success/stuath-success-web">
-    <img src="2SASSModel.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/carrliitos/CS476">
+    <img src="2SASSModel.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">UWW Student Athlete Support System</h3>
+  <h3 align="center">Student Athlete Success</h3>
 
   <p align="center">
-    project_description
+    Sample Project description
     <br />
-    <a href="https://github.com/uww-student-athlete-success/stuath-success-web"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/carrliitos/CS476"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/uww-student-athlete-success/stuath-success-web">View Demo</a>
+    <a href="https://github.com/carrliitos/CS476">View Demo</a>
     ·
-    <a href="https://github.com/uww-student-athlete-success/stuath-success-web/issues">Report Bug</a>
+    <a href="https://github.com/carrliitos/CS476/issues">Report Bug</a>
     ·
-    <a href="https://github.com/uww-student-athlete-success/stuath-success-web/issues">Request Feature</a>
+    <a href="https://github.com/carrliitos/CS476/issues">Request Feature</a>
   </p>
 </p>
 
@@ -89,7 +89,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`uww-student-athlete-success`, `stuath-success-web`, `twitter_handle`, `email`, `project_title`, `project_description`
+`carrliitos`, `CS476`, `twitter_handle`, `salazarbc24@uww.edu`, `Student Athlete Success`, `Sample Project description`
 
 
 ### Built With
@@ -117,7 +117,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/uww-student-athlete-success/stuath-success-web.git
+   git clone https://github.com/carrliitos/CS476.git
    ```
 2. Install NPM packages
    ```sh
@@ -138,7 +138,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/uww-student-athlete-success/stuath-success-web/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/carrliitos/CS476/issues) for a list of proposed features (and known issues).
 
 
 
@@ -165,9 +165,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - salazarbc24@uww.edu
 
-Project Link: [https://github.com/uww-student-athlete-success/stuath-success-web](https://github.com/uww-student-athlete-success/stuath-success-web)
+Project Link: [https://github.com/carrliitos/CS476](https://github.com/carrliitos/CS476)
 
 
 
@@ -184,15 +184,15 @@ Project Link: [https://github.com/uww-student-athlete-success/stuath-success-web
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/uww-student-athlete-success/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/uww-student-athlete-success/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/uww-student-athlete-success/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/uww-student-athlete-success/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/uww-student-athlete-success/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/uww-student-athlete-success/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/uww-student-athlete-success/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/uww-student-athlete-success/repo/issues
-[license-shield]: https://img.shields.io/github/license/uww-student-athlete-success/repo.svg?style=for-the-badge
-[license-url]: https://github.com/uww-student-athlete-success/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/carrliitos/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/carrliitos/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/carrliitos/repo.svg?style=for-the-badge
+[forks-url]: https://github.com/carrliitos/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/carrliitos/repo.svg?style=for-the-badge
+[stars-url]: https://github.com/carrliitos/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/carrliitos/repo.svg?style=for-the-badge
+[issues-url]: https://github.com/carrliitos/repo/issues
+[license-shield]: https://img.shields.io/github/license/carrliitos/repo.svg?style=for-the-badge
+[license-url]: https://github.com/carrliitos/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/uww-student-athlete-success
+[linkedin-url]: https://linkedin.com/in/carrliitos

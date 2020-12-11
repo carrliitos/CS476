@@ -33,7 +33,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/carrliitos/CS476">
-    <img src="2SASSModel.jpg" alt="Logo" width="240" height="240">
+    <img src="2SASSModel.jpg" alt="Logo" width="480" height="360">
   </a>
 
   <h3 align="center">Student Athlete Success</h3>
